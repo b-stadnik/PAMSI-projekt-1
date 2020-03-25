@@ -10,7 +10,7 @@ int main()
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
-// Debugowanie programu: F5 lub menu Debugowanie > Rozpocznij debugowanie
+// Debugowanie programu: F5 lub menu ebugowanie > Rozpocznij debugowanie
 
 // Porady dotyczące rozpoczynania pracy:
 //   1. Użyj okna Eksploratora rozwiązań, aby dodać pliki i zarządzać nimi
